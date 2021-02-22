@@ -8,8 +8,9 @@ package algorithm.sort;
 public class SortTest {
     public static void main(String[] args) {
         Integer[] integers = {4, 756462, 43124, 325, 4363, 54325, 43242, 2, 23243, 54, 6};
-        InsertSort insertSort = new InsertSort();
-        insertSort.sort(integers);
+        //InsertSort insertSort = new InsertSort();
+        QuickSort quickSort = new QuickSort();
+        quickSort.sort(integers);
         BaseSort.show(integers);
     }
 }
