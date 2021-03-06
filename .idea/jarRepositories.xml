@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="nbpublic" />
+      <option name="name" value="nbPublic Repositories" />
+      <option name="url" value="http://xkznexus.carzone360.net:8081/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="xkzrelease" />
+      <option name="name" value="xkzreleaseNexus Snapshots Repository" />
+      <option name="url" value="http://xkznexus.carzone360.net:8081/nexus/content/repositories/12.246release/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="public" />
+      <option name="name" value="maven-public" />
+      <option name="url" value="https://maven.carzone365.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="xkzsnapshots" />
+      <option name="name" value="xkzNexus Snapshots Repository" />
+      <option name="url" value="http://xkznexus.carzone360.net:8081/nexus/content/repositories/12.246/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nbreleases" />
+      <option name="name" value="nbReleases" />
+      <option name="url" value="http://xkznexus.carzone360.net:8081/nexus/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="releases" />
+      <option name="name" value="maven-releases" />
+      <option name="url" value="https://maven.carzone365.com/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="maven-snapshots" />
+      <option name="url" value="https://maven.carzone365.com/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="nbnexus-snapshots" />
+      <option name="name" value="nb Nexus Snapshots Repository" />
+      <option name="url" value="http://xkznexus.carzone360.net:8081/nexus/content/repositories/snapshots/" />
+    </remote-repository>
+  </component>
+</project>

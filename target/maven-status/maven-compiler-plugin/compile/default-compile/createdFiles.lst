@@ -1,0 +1,8 @@
+algorithm\sort\QuickSort.class
+algorithm\sort\InsertSort.class
+algorithm\sort\SortTest.class
+spi\Test.class
+algorithm\sort\BaseSort.class
+spi\Animal.class
+mybatis\Jdbc.class
+spi\Humen.class
